@@ -1,0 +1,99 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#background{
+    background-image: url(./image/3795663.jpg);
+    display: flex;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+#box{
+    
+    height: 480px;
+    width: 460px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+    margin-left: 677px;
+    margin-top: -765px;
+    
+    
+}
+
+#font1 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    margin-top: 5px;
+    margin-left: 150px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#name1{
+    height: 45px;
+    width: 440px;
+    margin-left: 5px;
+    border-radius: 15px;
+    margin-top: 45px;
+    border: 2px solid gray;
+}
+
+#pass1{
+    height: 45px;
+    width: 440px;
+    margin-left: 5px;
+    border-radius: 15px;
+    margin-top: 35px;
+    border: 2px solid gray;
+
+}
+
+#forgot{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 104, 0);
+    transition: 0.8s;
+}
+
+#forgot:hover{
+    color: black;
+    font-size: 20px;
+}
+
+#button{
+    height: 55px;
+    width: 270px;
+    background-color: green;
+    border-radius: 12px;
+    margin-top: 75px;
+    margin-left: 85px;
+}
+
+
+
+
+
+#font10{
+    color: white;
+    font-size: 20px;
+}
+
+p{
+    color: white;
+    font-size: 37px;
+    margin-left: 85px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
